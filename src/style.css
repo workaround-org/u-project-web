@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+  --color-k8s-blue: #326ce5;
+  --color-k8s-dark: #1a365d;
+}
